@@ -1,5 +1,5 @@
 # Distance-Calculator
-Calculates distance between two coordinates provided as origin and destination points on a survey of travel behaviors. Uses Open Street Map API.
+Calculates distance along a street network between two coordinates provided as origin and destination points on a survey of travel behaviors. Uses Open Street Map API and assumes the mode of travel is walking. 
 
 Takes as inputs a latitude and longitude of both an origin point and a destination point. 
 
